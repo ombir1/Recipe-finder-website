@@ -3,11 +3,11 @@ A full-stack web application to discover recipes using Spoonacular API.
 
 B.Tech Major Project | IGU Meerpur (2022-2026)
 Guide: Dr. Ajay Kumar | Student: Ombir 220011015046
-GitHub: github.com/raodeadly-cell
+GitHub: github.com/ombir1
 
 ## 🚀 Live Demo
-Frontend: [Your Netlify link add karna]
-Backend: [Your link add karna]
+Frontend: 
+Backend: 
 
 ## 📸 Features
 - Ingredient-based Search
@@ -40,6 +40,6 @@ npm start
 
 ## Author
 Ombir Yadav
-GitHub: raodeadly-cell
-LinkedIn: ombir-yadav-5579423b8
+GitHub: Ombir1
+LinkedIn: ombir-yadav-cse
 Email: ombir3200@gmail.com
